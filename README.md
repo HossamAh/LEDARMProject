@@ -14,6 +14,8 @@ project to control led on/off period with 2 switches
 * SysTick
 * GPT
 * System clock
+
+
 **All drivers implemented from scratch**
 
 # Operation:
